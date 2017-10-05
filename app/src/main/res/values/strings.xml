@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HiLo</string>
+    <string name="guessTitle">Guess</string>
+    <string name="resetTitle">Reset</string>
+    <string name="guessHint">Enter Your Guess Here</string>
+    <string name="action_about">About</string>
+    <string name="author" translatable="false">Zaheed Jaffer (jaff0021)</string>
+</resources>
